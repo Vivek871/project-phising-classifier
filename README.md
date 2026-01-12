@@ -1,2 +1,6 @@
-# project-phising-classifier
-Phishing Website Detection Using Machine Learning
+# phishing-classifier
+this is machine learning project 1
+
+
+
+'''pip install -e .  ''' to run setup.py
